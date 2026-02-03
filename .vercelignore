@@ -1,0 +1,27 @@
+# Ignore files for Vercel deployment
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
+ENV/
+.pytest_cache/
+.coverage
+htmlcov/
+*.log
+.DS_Store
+.git/
+.gitignore
+tests/
+example_usage.py
+chat.py
+main.py
+start_web.sh
