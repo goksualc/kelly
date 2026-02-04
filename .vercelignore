@@ -25,3 +25,12 @@ example_usage.py
 chat.py
 main.py
 start_web.sh
+requirements-dev.txt
+*.md
+DESIGN.md
+API.md
+TUTORIAL.md
+USAGE.md
+secure_chatbot/nn/
+secure_chatbot/parties/
+secure_chatbot/protocols/
